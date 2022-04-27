@@ -1,0 +1,42 @@
+.nav-ul li a {
+    color: #0f2656;
+}
+.nav-ul li a:hover {
+    color: #0c66ff;
+}
+.banner_content h1 {
+    color: #0f2656;
+}
+.banner_content span {
+    color: #008aff;
+    text-shadow: 1px 0 #76c0ff;
+}
+.three_k {
+    color: #f15767;
+}
+.d-blue {
+    color: #0f2656;
+}
+.bg1 {
+    background-color: #fdebed;
+}
+.bg2 {
+    background-color: #ebf9f4;
+}
+.bg3 {
+    background-color: #fff7e8;
+}
+.bg-footer {
+    background-color: #008aff;
+}
+.bg-footer p {
+    color: #94c8ff;
+}
+abbr {
+    border: none !important;
+    text-decoration: none !important;
+    cursor: default !important;
+}
+abbr a {
+    color: #ebf5ff !important;
+}
